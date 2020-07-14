@@ -13,7 +13,7 @@ I explored the historical dataset and found the dataset to be unbalanced. I noti
 3.	Data preprocessing using MLlib 
 For model training purposes, I focus on the three columns: label, text_new, text_old. Train set and test set are preprocessed separately. 
 
-<img src="https://github.com/Finterly/Wiki-Edit-Prediction-PySpark/blob/master/preprocess1.png">
+<img src="https://github.com/Finterly/Wiki-Edit-Prediction-PySpark/blob/master/preprocess1.png" width = 100px>
 
 
 4.	Pipeline: feature engineering, model training, tuning, and selection using MLlib
